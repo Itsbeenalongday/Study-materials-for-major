@@ -1,6 +1,6 @@
 # Study-materials-for-major
 
-전공 공부 자료 모음
+전공 공부 자료 모음 & 부족한 부분 
 
 ## 전공 필수 과목
 
@@ -111,9 +111,9 @@
       <td style="text-align:center">A0</td>
       <td style="text-align:center">3</td>
     </tr>
-      <tr>
+     <tr>
       <td style="text-align:center>오픈소스SW 입문</td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center"> </td>
       <td style="text-align:center">3</td>
     </tr>
       <tr>
@@ -121,7 +121,7 @@
       <td style="text-align:center"></td>
       <td style="text-align:center">3</td>
     </tr>
-      <tr>
+     <tr>
       <td style="text-align:center">IT 집중 교육1, 2</td>
       <td style="text-align:center"></td>
       <td style="text-align:center">12</td>
