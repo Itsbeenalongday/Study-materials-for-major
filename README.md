@@ -1,6 +1,8 @@
-# Study-materials-for-major
+# University
 
-전공 공부 자료 모음 & 부족한 부분 
+- [ X ] 전공 공부 자료 모음
+- [ X ] 부족한 부분 파악하기
+- [ X ] 자기관리
 
 ## 전공 필수 과목
 
