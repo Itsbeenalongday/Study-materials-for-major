@@ -9,29 +9,29 @@
     <tr>
       <th style = "text-align:center">전공과목</th>
       <th style = "text-align:center">성적</th>
-      <th style = "text-align:center">전공과목</th>
+      <th style = "text-align:center">학점</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style ="text-align : center">이산수학</td>
-      <td style ="text-align : center">C+</td>
-      <td style ="text-align : center">3</td>
+      <td style="text-align : center">이산수학</td>
+      <td style="text-align : center">C+</td>
+      <td style="text-align : center">3</td>
     </tr>
      <tr>
-      <td style ="text-align : center">컴퓨터 프로그래밍</td>
-      <td style ="text-align : center">A0</td>
-      <td style ="text-align : center">3</td>
+      <td style="text-align : center">컴퓨터 프로그래밍</td>
+      <td style="text-align : center">A0</td>
+      <td style="text-align : center">3</td>
     </tr>
      <tr>
-      <td style ="text-align : center">컴퓨터 프로그래밍 설계</td>
-      <td style ="text-align : center">A0</td>
-      <td style ="text-align : center">3</td>
+      <td style="text-align : center">컴퓨터 프로그래밍 설계</td>
+      <td style="text-align : center">A0</td>
+      <td style="text-align : center">3</td>
     </tr>
      <tr>
-      <td style ="text-align : center">디지털회로</td>
-      <td style ="text-align : center">B+</td>
-      <td style ="text-align : center">4</td>
+      <td style="text-align : center">디지털회로</td>
+      <td style="text-align : center">B+</td>
+      <td style="text-align : center">4</td>
     </tr>
      <tr>
       <td style ="text-align : center">컴퓨터네트워크</td>
