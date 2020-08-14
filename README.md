@@ -73,7 +73,7 @@
      <tr>
       <td style ="text-align:center">시스템프로그래밍및실습</td>
       <td style ="text-align:center">A+</td>
-      <td style ="text-align:center">3</td>
+      <td style ="text-align:center">4</td>
     </tr>
      <tr>
       <td style ="text-align:center">도메인분석및SW설계</td>
