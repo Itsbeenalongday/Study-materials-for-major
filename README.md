@@ -143,6 +143,8 @@ push 한 번 당 100MB의 용량을 넘지 못한다 그때 해결법
 
 ```bash
 
+$ git lfs track <100M 넘는 파일>
+
 $  java -jar bfg-1.13.0.jar --strip-blobs-bigger-than 100M
 
 $ git repack && git gc # error날 시, 해당 명령하고 다시 위 명령 실행
