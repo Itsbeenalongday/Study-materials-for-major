@@ -1,4 +1,0 @@
-Algorithm.pdf filter=lfs diff=lfs merge=lfs -text
-Database.pdf filter=lfs diff=lfs merge=lfs -text
-OOP.pdf filter=lfs diff=lfs merge=lfs -text
-OS.pdf filter=lfs diff=lfs merge=lfs -text
