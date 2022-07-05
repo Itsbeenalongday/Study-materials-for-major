@@ -1,6 +1,3 @@
-[submodule "Database/project/APollo"]
-	path = Database/project/APollo
-	url = https://github.com/9oominsoo/APollo.git
 [submodule "PS/DP"]
 	path = PS/DP
 	url = https://github.com/Itsbeenalongday/Dynamic-Programming.git
